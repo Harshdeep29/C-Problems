@@ -1,4 +1,4 @@
-
+//Right half pyramid
 #include <stdio.h>
 int main()
 {
